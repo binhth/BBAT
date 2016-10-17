@@ -1,0 +1,4 @@
+# Ignore everything
+*
+# White list
+!themes/bootstrap3-theme/docroot/_diffs/

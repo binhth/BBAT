@@ -9,7 +9,7 @@
 		<settings>
 	    	<setting type="select" configurable="true" 
 	        	key="theme-type" 
-	    	    options="home,page,noneheader"                   
+	    	    options="homepage,page,noneheader"                   
 		        value="page" >
 		    </setting>
         </settings>
